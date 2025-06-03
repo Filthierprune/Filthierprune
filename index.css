@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif; /* Cambia la fuente del texto */
+    background-color: #f4f4f4; /* Color de fondo suave */
+    color: #333; /* Color del texto principal */
+    margin: 40px; /* Margen alrededor del cuerpo */
+    line-height: 1.6; /* Espaciado entre líneas */
+}
+
+h1 {
+    color: #0056b3; /* Color del título principal */
+    text-align: center; /* Centra el título */
+    margin-bottom: 30px; /* Espacio debajo del título */
+}
+
+h3 {
+    color: #007bff; /* Color de los subtítulos */
+    border-bottom: 2px solid #007bff; /* Línea debajo de los subtítulos */
+    padding-bottom: 5px; /* Espacio entre el texto y la línea */
+    margin-top: 25px; /* Espacio encima de los subtítulos */
+}
+
+p {
+    background-color: #ffffff; /* Fondo blanco para los párrafos */
+    padding: 15px; /* Relleno dentro de los párrafos */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Sombra sutil */
+    margin-bottom: 20px; /* Espacio debajo de los párrafos */
+}
